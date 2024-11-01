@@ -1,0 +1,82 @@
+﻿@model IPagedList<IndividualBlog.Models.Comment>
+@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @* @Html.DisplayNameFor(model => model.Content) *@
+                Nội dung
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.Created_At) *@
+                Ngày bình luận
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.Updated_At) *@
+                Ngày cập nhật
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.Post) *@
+                Thuộc bài đăng
+            </th>
+            <th>
+                @* @Html.DisplayNameFor(model => model.User) *@
+                Người bình luận
+            </th>
+           @* <th>
+                @Html.DisplayNameFor(model => model.Parent)
+            </th>*@
+            <th>
+                Thao tác
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Content)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Created_At)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Updated_At)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Post.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.User.FirtName)
+            </td>
+            <td>
+               @* <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-dark">Cập nhật</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Xem</a> |*@
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+@Html.PagedListPager(Model, page => Url.Action("Index", new{page}),
+    new X.PagedList.Web.Common.PagedListRenderOptions
+    {
+        DisplayItemSliceAndTotal = false,
+        ContainerDivClasses = new[] {"navigation"},
+        LiElementClasses = new[] {"page-item"},
+        PageClasses = new[] {"page-link"}
+    }
+)
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $('ul.pagination > li.disable > a').addClass("page-link");
+        });
+    </script>
+}

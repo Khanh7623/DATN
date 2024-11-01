@@ -1,0 +1,3177 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\apexcharts.css",
+      "PackagePath": "staticwebassets\\admin\\css\\apexcharts.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\filepond-plugin-image-preview.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\filepond-plugin-image-preview.min.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\filepond.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\filepond.min.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\flatpickr.min.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\admin\\css\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\quill\\quill.core.css",
+      "PackagePath": "staticwebassets\\admin\\css\\quill\\quill.core.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\admin\\css\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\select2.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\select2.min.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\admin\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\tippy\\animations\\perspective-extreme.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tippy\\animations\\perspective-extreme.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\tippy\\animations\\perspective-subtle.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tippy\\animations\\perspective-subtle.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\tippy\\animations\\perspective.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tippy\\animations\\perspective.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\tippy\\animations\\scale-extreme.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tippy\\animations\\scale-extreme.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\tippy\\animations\\scale-subtle.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tippy\\animations\\scale-subtle.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\tippy\\animations\\scale.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tippy\\animations\\scale.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\tippy\\animations\\shift-away-extreme.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tippy\\animations\\shift-away-extreme.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\tippy\\animations\\shift-away-subtle.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tippy\\animations\\shift-away-subtle.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\tippy\\animations\\shift-away.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tippy\\animations\\shift-away.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\tippy\\animations\\shift-toward-extreme.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tippy\\animations\\shift-toward-extreme.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\tippy\\animations\\shift-toward-subtle.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tippy\\animations\\shift-toward-subtle.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\tippy\\animations\\shift-toward.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tippy\\animations\\shift-toward.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\css\\tippy\\tippy.css",
+      "PackagePath": "staticwebassets\\admin\\css\\tippy\\tippy.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\Comfortaa-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Comfortaa-Bold.woff"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\Comfortaa-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Comfortaa-Bold.woff2"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\MaterialIcons\\MaterialIcons-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\MaterialIcons\\MaterialIcons-Regular.eot"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\MaterialIcons\\MaterialIcons-Regular.svg",
+      "PackagePath": "staticwebassets\\admin\\fonts\\MaterialIcons\\MaterialIcons-Regular.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\MaterialIcons\\MaterialIcons-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\MaterialIcons\\MaterialIcons-Regular.ttf"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\MaterialIcons\\MaterialIcons-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\MaterialIcons\\MaterialIcons-Regular.woff"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\MaterialIcons\\MaterialIcons-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\MaterialIcons\\MaterialIcons-Regular.woff2"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\RoundedMplus1c-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\RoundedMplus1c-Black.woff"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\fonts\\RoundedMplus1c-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\RoundedMplus1c-Black.woff2"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\arrow-double-dark.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\arrow-double-dark.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\arrow-double.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\arrow-double.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\auth-bg-dark.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\auth-bg-dark.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\auth-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\auth-bg.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\auth-dots.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\auth-dots.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\avatar-full.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\avatar-full.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\avatar.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\checkbox-checked.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\checkbox-checked.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\checkbox-dark-checked.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\checkbox-dark-checked.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\checkbox-dark.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\checkbox-dark.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\checkbox.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\checkbox.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\checked-success.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\checked-success.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\cog.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\cog.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\credit-card@3x.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\credit-card@3x.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\credit-mastercard@3x.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\credit-mastercard@3x.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\credit-visa@3x.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\credit-visa@3x.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\dot.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\dot.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji-happy.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji-happy.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\angry.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\angry.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\bad.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\bad.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\crazy.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\crazy.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\happy-2.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\happy-2.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\happy-3.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\happy-3.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\happy.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\happy.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\in-love.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\in-love.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\laughing.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\laughing.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\nerd.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\nerd.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\pressure.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\pressure.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\sad-2.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\sad-2.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\sad.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\sad.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\shocked-2.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\shocked-2.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\shocked-3.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\shocked-3.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\shocked.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\shocked.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\sweating.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\sweating.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\thinking.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\thinking.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\emoji\\wink.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\emoji\\wink.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\android-icon-144x144.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\android-icon-144x144.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\android-icon-192x192.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\android-icon-192x192.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\android-icon-36x36.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\android-icon-36x36.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\android-icon-48x48.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\android-icon-48x48.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\android-icon-72x72.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\android-icon-72x72.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\android-icon-96x96.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\android-icon-96x96.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\apple-icon-114x114.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\apple-icon-114x114.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\apple-icon-120x120.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\apple-icon-120x120.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\apple-icon-144x144.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\apple-icon-144x144.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\apple-icon-152x152.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\apple-icon-152x152.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\apple-icon-180x180.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\apple-icon-180x180.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\apple-icon-57x57.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\apple-icon-57x57.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\apple-icon-60x60.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\apple-icon-60x60.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\apple-icon-72x72.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\apple-icon-72x72.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\apple-icon-76x76.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\apple-icon-76x76.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\apple-icon-precomposed.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\apple-icon-precomposed.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\apple-icon.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\apple-icon.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\browserconfig.xml",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\browserconfig.xml"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\favicon-16x16.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\favicon-32x32.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\favicon-96x96.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\favicon-96x96.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\manifest.json",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\manifest.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\ms-icon-144x144.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\ms-icon-144x144.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\ms-icon-150x150.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\ms-icon-150x150.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\ms-icon-310x310.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\ms-icon-310x310.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\favicons\\ms-icon-70x70.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\favicons\\ms-icon-70x70.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\file-doc.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\file-doc.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\file-folder.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\file-folder.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\file-pdf.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\file-pdf.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\file-placeholder.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\file-placeholder.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\file-unknown.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\file-unknown.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\file-xls.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\file-xls.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\file-zip.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\file-zip.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\flags\\au.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\flags\\au.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\flags\\cn.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\flags\\cn.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\flags\\gb.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\flags\\gb.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\flags\\ru.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\flags\\ru.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\flags\\us.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\flags\\us.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans-2\\item-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans-2\\item-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans-2\\item-10.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans-2\\item-10.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans-2\\item-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans-2\\item-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans-2\\item-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans-2\\item-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans-2\\item-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans-2\\item-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans-2\\item-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans-2\\item-5.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans-2\\item-6.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans-2\\item-6.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans-2\\item-7.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans-2\\item-7.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans-2\\item-8.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans-2\\item-8.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans-2\\item-9.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans-2\\item-9.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans\\item-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans\\item-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans\\item-10.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans\\item-10.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans\\item-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans\\item-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans\\item-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans\\item-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans\\item-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans\\item-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans\\item-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans\\item-5.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans\\item-6.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans\\item-6.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans\\item-7.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans\\item-7.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans\\item-8.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans\\item-8.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\humans\\item-9.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\humans\\item-9.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\lock.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\lock.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\logo-dark.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\logo-dark.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\logo-light.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\logo-light.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\logotype.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\logotype.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\message-file-1@2x.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\message-file-1@2x.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\message-file-2@2x.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\message-file-2@2x.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\message-file-3@2x.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\message-file-3@2x.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\move.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\move.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\product\\item-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\product\\item-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\product\\item-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\product\\item-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\product\\item-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\product\\item-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\product\\item-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\product\\item-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\product\\placeholder-main.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\product\\placeholder-main.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\product\\placeholder-thumbnail.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\product\\placeholder-thumbnail.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\product\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\product\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\product\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\product\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\product\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\product\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\product\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\product\\thumb-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\s-facebook.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\s-facebook.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\s-google-plus.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\s-google-plus.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\s-pinterest.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\s-pinterest.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\s-twitter.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\s-twitter.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\timeline\\item-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\timeline\\item-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\timeline\\item-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\timeline\\item-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\timeline\\item-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\timeline\\item-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\timeline\\item-4.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\timeline\\item-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\timeline\\item-5.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\timeline\\item-5.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\timeline\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\timeline\\thumb-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\timeline\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\timeline\\thumb-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\timeline\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\timeline\\thumb-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\upload-placeholder.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\upload-placeholder.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\upload-progress-dark.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\upload-progress-dark.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\upload-progress.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\upload-progress.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\content\\visa-logo.png",
+      "PackagePath": "staticwebassets\\admin\\img\\content\\visa-logo.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-action.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-action.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-archive.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-archive.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-arrow-down.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-arrow-down.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-attachment.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-attachment.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-back-time.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-back-time.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-bell.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-bell.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-bill.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-bill.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-calendar.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-calendar.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-camera.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-camera.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-cart.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-cart.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-chat-messages.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-chat-messages.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-chat.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-chat.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-checked.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-checked.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-chevron.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-chevron.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-clipboard.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-clipboard.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-clock.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-clock.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-comments.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-comments.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-contacts.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-contacts.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-credit-card.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-credit-card.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-cross.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-cross.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-dashboard.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-dashboard.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-detail.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-detail.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-details.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-details.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-doc.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-doc.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-dot.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-dot.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-dots.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-dots.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-download.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-download.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-drafts.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-drafts.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-duplicate.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-duplicate.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-email-2.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-email-2.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-email.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-email.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-emoji.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-emoji.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-file-empty.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-file-empty.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-flag.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-flag.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-folder.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-folder.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-grid.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-grid.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-help.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-help.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-home.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-home.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-import.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-import.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-inbox.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-inbox.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-invoice.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-invoice.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-keyboard-down.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-keyboard-down.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-keyboard-left.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-keyboard-left.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-keyboard-right.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-keyboard-right.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-language.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-language.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-like.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-like.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-list.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-list.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-location.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-location.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-logout.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-logout.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-menu.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-menu.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-message.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-message.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-more.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-more.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-move.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-move.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-password.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-password.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-pdf.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-pdf.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-phone.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-phone.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-plus.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-plus.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-print.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-print.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-pushpin.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-pushpin.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-refresh.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-refresh.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-reply-all.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-reply-all.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-reply.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-reply.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-restore.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-restore.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-save.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-save.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-search.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-search.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-send.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-send.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-settings.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-settings.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-star.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-star.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-status.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-status.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-task-notes.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-task-notes.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-task.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-task.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-text-bold.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-text-bold.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-text-center.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-text-center.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-text-font.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-text-font.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-text-justify.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-text-justify.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-text-left.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-text-left.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-text-right.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-text-right.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-text-style.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-text-style.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-text-underline.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-text-underline.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-todo.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-todo.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-trade-down.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-trade-down.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-trade-up.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-trade-up.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-trash.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-trash.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-truck.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-truck.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-upload.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-upload.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-user-outline.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-user-outline.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-user.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-user.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-view.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-view.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-wallet.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-wallet.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\icons\\icon-xls.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\icons\\icon-xls.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\img\\svg-symbols.svg",
+      "PackagePath": "staticwebassets\\admin\\img\\svg-symbols.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\common.js",
+      "PackagePath": "staticwebassets\\admin\\js\\common.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\components.js",
+      "PackagePath": "staticwebassets\\admin\\js\\components.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\gsap\\ScrollToPlugin.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\gsap\\ScrollToPlugin.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\gsap\\ScrollToPlugin.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\gsap\\ScrollToPlugin.min.js.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\gsap\\ScrollTrigger.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\gsap\\ScrollTrigger.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\gsap\\ScrollTrigger.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\gsap\\ScrollTrigger.min.js.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\gsap\\gsap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\gsap\\gsap.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\gsap\\gsap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\gsap\\gsap.min.js.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\calendar\\flatpickr\\en.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\calendar\\flatpickr\\en.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\calendar\\flatpickr\\flatpickr.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\calendar\\flatpickr\\flatpickr.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ca.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\cs.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\de.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\de.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\el.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\el.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\en.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\en.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\es.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\es.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\fi.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\fr.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\he.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\he.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\hi.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\hr.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\hy.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\id.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\id.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\it.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\it.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ja.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ka.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ko.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ko.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ko.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\lt.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\nb.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\nl.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\pl.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\pt-br.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\pt.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\rs.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ru.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\se.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\se.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\sk.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\sl.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\sq.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\th.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\th.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\tr.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\ua.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\apexcharts\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\apexcharts\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\circle-progress.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\circle-progress.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\echarts.common.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\echarts.common.js.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\charts\\echarts.common.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\charts\\echarts.common.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\cleave\\addons\\cleave-phone.us.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\cleave\\addons\\cleave-phone.us.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\cleave\\cleave.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\cleave\\cleave.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\editors\\quill.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\editors\\quill.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\filepond-plugin-image-preview.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\filepond-plugin-image-preview.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\filepond.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\filepond.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\ar-ar.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\ar-ar.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\cs-cz.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\cs-cz.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\da-dk.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\da-dk.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\de-de.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\de-de.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\en-en.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\en-en.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\es-es.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\es-es.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\fr-fr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\fr-fr.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\he-he.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\he-he.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\hu-hu.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\hu-hu.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\id-id.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\id-id.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\it-it.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\it-it.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\ja-ja.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\ja-ja.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\no_nb.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\no_nb.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\pl-pl.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\pl-pl.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\pt-br.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\pt-br.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\ru-ru.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\ru-ru.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\sv_se.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\sv_se.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\tr-tr.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\tr-tr.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\uk-ua.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\uk-ua.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\zh-cn.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\zh-cn.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\filepond\\locale\\zh-tw.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\filepond\\locale\\zh-tw.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\grid\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\grid\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\grid\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\grid\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\imagesloaded.pkgd.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\imagesloaded.pkgd.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\jquery.star-rating-svg.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\jquery.star-rating-svg.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\jqvmap\\jquery.vmap.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\jqvmap\\jquery.vmap.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\jqvmap\\jquery.vmap.sampledata.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\jqvmap\\jquery.vmap.sampledata.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\jqvmap\\jquery.vmap.world.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\jqvmap\\jquery.vmap.world.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\popper.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\popper.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\popper.min.js.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\scrollmagic\\ScrollMagic.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\scrollmagic\\ScrollMagic.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\scrollmagic\\debug.addIndicators.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\scrollmagic\\debug.addIndicators.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\select2.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\select2.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\simplebar.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\tippy-bundle.umd.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\tippy-bundle.umd.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\js\\vendor\\tippy-bundle.umd.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\js\\vendor\\tippy-bundle.umd.min.js.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_authentication.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_authentication.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_breadcrumbs.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_breadcrumbs.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_calendar-full.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_calendar-full.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_calendar.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_calendar.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_cart.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_cart.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_chat.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_chat.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_contacts.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_contacts.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_customer-account.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_customer-account.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_file-manager.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_file-manager.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_footer.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_footer.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_header.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_header.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_inbox.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_inbox.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_map.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_map.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_modals.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_modals.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_order-messages.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_order-messages.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_order-notes.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_order-notes.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_orders.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_orders.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_page.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_page.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_product.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_product.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_sidebar-panel.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_sidebar-panel.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_sidebar.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_timeline.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_timeline.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\components\\_todo.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\components\\_todo.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_animations.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_animations.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_badge.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_buttons.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_card.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_card.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_charts.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_charts.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_common.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_common.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_extends.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_extends.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_files-upload.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_files-upload.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_fonts.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_fonts.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_forms.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_icons.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_icons.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_labels.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_labels.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_plugins.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_plugins.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_preloader.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_preloader.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_progressbar.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_progressbar.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_scrollbar.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_scrollbar.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_tags.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_tags.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_theme.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_theme.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_typography.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_typography.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_variables.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\_widget.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\_widget.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\plugins\\_include-media.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\plugins\\_include-media.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\plugins\\_mixins.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\plugins\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\plugins\\_sprite-mixin.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\plugins\\_sprite-mixin.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\include\\plugins\\_sprite.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\include\\plugins\\_sprite.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\admin\\styles\\style.scss",
+      "PackagePath": "staticwebassets\\admin\\styles\\style.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\sass\\base.scss",
+      "PackagePath": "staticwebassets\\css\\sass\\base.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\sass\\buttons.scss",
+      "PackagePath": "staticwebassets\\css\\sass\\buttons.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\sass\\elements.scss",
+      "PackagePath": "staticwebassets\\css\\sass\\elements.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\sass\\header.scss",
+      "PackagePath": "staticwebassets\\css\\sass\\header.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\sass\\helper.scss",
+      "PackagePath": "staticwebassets\\css\\sass\\helper.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\sass\\main.scss",
+      "PackagePath": "staticwebassets\\css\\sass\\main.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\sass\\mixins.scss",
+      "PackagePath": "staticwebassets\\css\\sass\\mixins.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\sass\\responsive.scss",
+      "PackagePath": "staticwebassets\\css\\sass\\responsive.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\sass\\slick.scss",
+      "PackagePath": "staticwebassets\\css\\sass\\slick.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\simple-line-icons.css",
+      "PackagePath": "staticwebassets\\css\\simple-line-icons.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\slick.css",
+      "PackagePath": "staticwebassets\\css\\slick.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\css\\style.css.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\css\\style.scss",
+      "PackagePath": "staticwebassets\\css\\style.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\Simple-Line-Icons.eot",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.eot"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\Simple-Line-Icons.svg",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\Simple-Line-Icons.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.ttf"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\Simple-Line-Icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.woff"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\Simple-Line-Icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\Simple-Line-Icons.woff2"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\ads\\ad-360.png",
+      "PackagePath": "staticwebassets\\images\\ads\\ad-360.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\ads\\ad-750.png",
+      "PackagePath": "staticwebassets\\images\\ads\\ad-750.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\iconwave-01.png",
+      "PackagePath": "staticwebassets\\images\\iconwave-01.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\iconwave-02-01.png",
+      "PackagePath": "staticwebassets\\images\\iconwave-02-01.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\insta\\insta-1.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\insta\\insta-2.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\insta\\insta-3.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\insta\\insta-4.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\insta\\insta-5.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta-5.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\insta\\insta-6.jpg",
+      "PackagePath": "staticwebassets\\images\\insta\\insta-6.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\logoMonomind-08-08.png",
+      "PackagePath": "staticwebassets\\images\\logoMonomind-08-08.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\logoMonomind-09.png",
+      "PackagePath": "staticwebassets\\images\\logoMonomind-09.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\logoMonomindnew-10.png",
+      "PackagePath": "staticwebassets\\images\\logoMonomindnew-10.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\logoweb-06.png",
+      "PackagePath": "staticwebassets\\images\\logoweb-06.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\logoweb-06_2-06.png",
+      "PackagePath": "staticwebassets\\images\\logoweb-06_2-06.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\map-bg.png",
+      "PackagePath": "staticwebassets\\images\\map-bg.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\other\\about.jpg",
+      "PackagePath": "staticwebassets\\images\\other\\about.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\other\\author-sm.png",
+      "PackagePath": "staticwebassets\\images\\other\\author-sm.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\other\\avatar-about.png",
+      "PackagePath": "staticwebassets\\images\\other\\avatar-about.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\other\\avatar-lg.png",
+      "PackagePath": "staticwebassets\\images\\other\\avatar-lg.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\other\\comment-1.png",
+      "PackagePath": "staticwebassets\\images\\other\\comment-1.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\other\\comment-2.png",
+      "PackagePath": "staticwebassets\\images\\other\\comment-2.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\other\\comment-3.png",
+      "PackagePath": "staticwebassets\\images\\other\\comment-3.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\other\\hero-2.jpg",
+      "PackagePath": "staticwebassets\\images\\other\\hero-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\other\\hero.jpg",
+      "PackagePath": "staticwebassets\\images\\other\\hero.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\editor-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\editor-lg.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\editor-sm-1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\editor-sm-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\editor-sm-2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\editor-sm-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\editor-sm-3.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\editor-sm-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\editor-sm-4.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\editor-sm-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\featured-lg.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\featured-lg.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\featured-md-1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\featured-md-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\featured-md-2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\featured-md-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\featured-md-3.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\featured-md-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\featured-md-4.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\featured-md-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\featured-xl-1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\featured-xl-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\featured-xl-2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\featured-xl-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\imagepost-1.png",
+      "PackagePath": "staticwebassets\\images\\posts\\imagepost-1.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\imagepost-2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\imagepost-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\imagepost-3.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\imagepost-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\inspiration-1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\inspiration-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\inspiration-2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\inspiration-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\inspiration-3.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\inspiration-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\latest-sm-1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\latest-sm-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\latest-sm-2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\latest-sm-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\latest-sm-3.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\latest-sm-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\latest-sm-4.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\latest-sm-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-lg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-lg-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-lg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-lg-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-lg-3.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-lg-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-lg-4.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-lg-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-md-1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-md-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-md-10.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-md-10.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-md-2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-md-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-md-3.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-md-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-md-4.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-md-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-md-5.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-md-5.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-md-6.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-md-6.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-md-7.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-md-7.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-md-8.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-md-8.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-md-9.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-md-9.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-xl-1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-xl-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-xl-2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-xl-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-xl-3.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-xl-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\post-xl-4.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\post-xl-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\single-cover.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\single-cover.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\single-sm-1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\single-sm-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\tabs-1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\tabs-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\tabs-2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\tabs-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\tabs-3.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\tabs-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\tabs-4.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\tabs-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\trending-lg-1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\trending-lg-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\trending-lg-2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\trending-lg-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\trending-sm-1.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\trending-sm-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\trending-sm-2.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\trending-sm-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\trending-sm-3.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\trending-sm-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\posts\\trending-sm-4.jpg",
+      "PackagePath": "staticwebassets\\images\\posts\\trending-sm-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\wave.svg",
+      "PackagePath": "staticwebassets\\images\\wave.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\widgets\\widget-carousel-1.jpg",
+      "PackagePath": "staticwebassets\\images\\widgets\\widget-carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\images\\widgets\\widget-carousel-2.jpg",
+      "PackagePath": "staticwebassets\\images\\widgets\\widget-carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\js\\jquery.sticky-sidebar.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sticky-sidebar.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\js\\slick.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\multiple-select\\multiple-select.min.css",
+      "PackagePath": "staticwebassets\\lib\\multiple-select\\multiple-select.min.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\lib\\multiple-select\\multiple-select.min.js",
+      "PackagePath": "staticwebassets\\lib\\multiple-select\\multiple-select.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\css\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\css\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\css\\bootstrap\\_media.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\_media.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\css\\bootstrap\\mixins\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\css\\bootstrap\\mixins\\_border-radius.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\_border-radius.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\css\\bootstrap\\mixins\\_screen-reader.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\_screen-reader.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\css\\bootstrap\\mixins\\_transition.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\_transition.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\css\\bootstrap\\mixins\\_visibility.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\mixins\\_visibility.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\css\\bootstrap\\utilities\\_stretched-link.css",
+      "PackagePath": "staticwebassets\\login\\css\\bootstrap\\utilities\\_stretched-link.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\css\\style.css",
+      "PackagePath": "staticwebassets\\login\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\images\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\ads\\ad-360.png",
+      "PackagePath": "staticwebassets\\login\\images\\ads\\ad-360.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\ads\\ad-750.png",
+      "PackagePath": "staticwebassets\\login\\images\\ads\\ad-750.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\login\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\bg-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\login\\images\\favicon.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\iconwave-01.png",
+      "PackagePath": "staticwebassets\\login\\images\\iconwave-01.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\iconwave-02-01.png",
+      "PackagePath": "staticwebassets\\login\\images\\iconwave-02-01.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\insta\\insta-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\insta\\insta-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\insta\\insta-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\insta\\insta-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\insta\\insta-3.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\insta\\insta-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\insta\\insta-4.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\insta\\insta-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\insta\\insta-5.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\insta\\insta-5.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\insta\\insta-6.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\insta\\insta-6.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\login\\images\\logo.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\logoMonomind-08-08.png",
+      "PackagePath": "staticwebassets\\login\\images\\logoMonomind-08-08.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\logoMonomind-09.png",
+      "PackagePath": "staticwebassets\\login\\images\\logoMonomind-09.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\logoweb-06.png",
+      "PackagePath": "staticwebassets\\login\\images\\logoweb-06.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\logoweb-06_2-06.png",
+      "PackagePath": "staticwebassets\\login\\images\\logoweb-06_2-06.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\map-bg.png",
+      "PackagePath": "staticwebassets\\login\\images\\map-bg.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\other\\about.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\other\\about.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\other\\author-sm.png",
+      "PackagePath": "staticwebassets\\login\\images\\other\\author-sm.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\other\\avatar-about.png",
+      "PackagePath": "staticwebassets\\login\\images\\other\\avatar-about.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\other\\avatar-lg.png",
+      "PackagePath": "staticwebassets\\login\\images\\other\\avatar-lg.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\other\\comment-1.png",
+      "PackagePath": "staticwebassets\\login\\images\\other\\comment-1.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\other\\comment-2.png",
+      "PackagePath": "staticwebassets\\login\\images\\other\\comment-2.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\other\\comment-3.png",
+      "PackagePath": "staticwebassets\\login\\images\\other\\comment-3.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\other\\hero-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\other\\hero-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\other\\hero.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\other\\hero.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\editor-lg.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\editor-lg.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\editor-sm-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\editor-sm-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\editor-sm-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\editor-sm-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\editor-sm-3.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\editor-sm-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\editor-sm-4.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\editor-sm-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\featured-lg.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\featured-lg.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\featured-md-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\featured-md-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\featured-md-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\featured-md-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\featured-md-3.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\featured-md-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\featured-md-4.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\featured-md-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\featured-xl-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\featured-xl-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\featured-xl-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\featured-xl-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\imagepost-1.png",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\imagepost-1.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\imagepost-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\imagepost-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\imagepost-3.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\imagepost-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\inspiration-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\inspiration-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\inspiration-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\inspiration-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\inspiration-3.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\inspiration-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\latest-sm-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\latest-sm-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\latest-sm-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\latest-sm-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\latest-sm-3.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\latest-sm-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\latest-sm-4.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\latest-sm-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-lg-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-lg-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-lg-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-lg-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-lg-3.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-lg-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-lg-4.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-lg-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-md-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-md-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-md-10.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-md-10.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-md-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-md-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-md-3.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-md-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-md-4.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-md-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-md-5.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-md-5.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-md-6.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-md-6.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-md-7.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-md-7.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-md-8.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-md-8.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-md-9.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-md-9.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-xl-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-xl-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-xl-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-xl-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-xl-3.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-xl-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\post-xl-4.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\post-xl-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\single-cover.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\single-cover.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\single-sm-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\single-sm-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\tabs-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\tabs-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\tabs-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\tabs-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\tabs-3.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\tabs-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\tabs-4.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\tabs-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\trending-lg-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\trending-lg-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\trending-lg-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\trending-lg-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\trending-sm-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\trending-sm-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\trending-sm-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\trending-sm-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\trending-sm-3.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\trending-sm-3.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\posts\\trending-sm-4.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\posts\\trending-sm-4.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\wave.svg",
+      "PackagePath": "staticwebassets\\login\\images\\wave.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\widgets\\widget-carousel-1.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\widgets\\widget-carousel-1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\images\\widgets\\widget-carousel-2.jpg",
+      "PackagePath": "staticwebassets\\login\\images\\widgets\\widget-carousel-2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\js\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\login\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\login\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\js\\main.js",
+      "PackagePath": "staticwebassets\\login\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\js\\popper.js",
+      "PackagePath": "staticwebassets\\login\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\scss\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\login\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\login\\scss\\style.scss"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\abc_T+ƒ-ª+¡o b++íi -+ª-+óng.png",
+      "PackagePath": "staticwebassets\\upload\\post\\abc_T+ƒ-ª+¡o b++íi -+ª-+óng.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\abc_ngon-ngu-java_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\post\\abc_ngon-ngu-java_2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\asdasd_+ƒ-ª+¦nh ch+ƒ++æp m++ín h+-+nh 2023-08-30 021410.png",
+      "PackagePath": "staticwebassets\\upload\\post\\asdasd_+ƒ-ª+¦nh ch+ƒ++æp m++ín h+-+nh 2023-08-30 021410.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\asdasd_ß¦ónh chß+Ñp m+án h+¼nh 2023-09-16 191753.png",
+      "PackagePath": "staticwebassets\\upload\\post\\asdasd_ß¦ónh chß+Ñp m+án h+¼nh 2023-09-16 191753.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\bai-2_+ƒ-ª+¦nh ch+ƒ++æp m++ín h+-+nh 2023-08-28 011502.png",
+      "PackagePath": "staticwebassets\\upload\\post\\bai-2_+ƒ-ª+¦nh ch+ƒ++æp m++ín h+-+nh 2023-08-28 011502.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\bien-trong-c_MOS test 3.PNG",
+      "PackagePath": "staticwebassets\\upload\\post\\bien-trong-c_MOS test 3.PNG"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\ngon-ngu-java_2.jpg",
+      "PackagePath": "staticwebassets\\upload\\post\\ngon-ngu-java_2.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\ngon-ngu-python_MOS test 1.PNG",
+      "PackagePath": "staticwebassets\\upload\\post\\ngon-ngu-python_MOS test 1.PNG"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\nhap-mon-c_1.jpg",
+      "PackagePath": "staticwebassets\\upload\\post\\nhap-mon-c_1.jpg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\nhap-mon-c_Screenshot (17).png",
+      "PackagePath": "staticwebassets\\upload\\post\\nhap-mon-c_Screenshot (17).png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\nhap-mon-c_Screenshot (21).png",
+      "PackagePath": "staticwebassets\\upload\\post\\nhap-mon-c_Screenshot (21).png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\nhap-mon-c_Screenshot (52).png",
+      "PackagePath": "staticwebassets\\upload\\post\\nhap-mon-c_Screenshot (52).png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\nhap-mon-java_M++ín h+-+nh -+ª-+óng k++.png",
+      "PackagePath": "staticwebassets\\upload\\post\\nhap-mon-java_M++ín h+-+nh -+ª-+óng k++.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\nhap-mon-java_M++ín h+-+nh trang ch+ƒ+-¦.png",
+      "PackagePath": "staticwebassets\\upload\\post\\nhap-mon-java_M++ín h+-+nh trang ch+ƒ+-¦.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\nhap-mon-java_Screenshot (21).png",
+      "PackagePath": "staticwebassets\\upload\\post\\nhap-mon-java_Screenshot (21).png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\nhap-mon-java_Screenshot (52).png",
+      "PackagePath": "staticwebassets\\upload\\post\\nhap-mon-java_Screenshot (52).png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\upload\\post\\nhap-mon-javaaa_M++ín h+-+nh -+ª-+óng k++.png",
+      "PackagePath": "staticwebassets\\upload\\post\\nhap-mon-javaaa_M++ín h+-+nh -+ª-+óng k++.png"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Fpoly\\IndividualBlog_FINAL\\wwwroot\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.IndividualBlog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.IndividualBlog.props",
+      "PackagePath": "build\\IndividualBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.IndividualBlog.props",
+      "PackagePath": "buildMultiTargeting\\IndividualBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.IndividualBlog.props",
+      "PackagePath": "buildTransitive\\IndividualBlog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

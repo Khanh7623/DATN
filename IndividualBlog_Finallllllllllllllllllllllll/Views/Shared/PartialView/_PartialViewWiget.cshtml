@@ -1,0 +1,52 @@
+﻿  <div class="sidebar" style="">
+                      <div class="inner-wrapper-sticky" style="position: relative;">
+                         <!-- widget about -->
+                         <div class="widget rounded">
+                            <div class="widget-about data-bg-image text-center" data-bg-image="~/images/map-bg.png" style="background-image: url(&quot;~/images/map-bg.png&quot;);">
+                            <img src="~/images/logoMonomindnew-10.png" alt="logo" class="mb-4">
+                               <p class="mb-4">Xin chào, chúng mình Monomind. Đây là nền tảng chia sẻ kiến thức IT.
+
+                               </p>
+                               <ul class="social-icons list-unstyled list-inline mb-0">
+                                  <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+                                  <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+                                  <li class="list-inline-item"><a href="#"><i class="fab fa-instagram"></i></a></li>
+                                  <li class="list-inline-item"><a href="#"><i class="fab fa-pinterest"></i></a></li>
+                                  <li class="list-inline-item"><a href="#"><i class="fab fa-medium"></i></a></li>
+                                  <li class="list-inline-item"><a href="#"><i class="fab fa-youtube"></i></a></li>
+                               </ul>
+                            </div>
+                         </div>
+                         <!-- widget popular posts -->
+                         @await Component.InvokeAsync("WigetPopular") 
+                         <!-- widget categories -->
+                         @await Component.InvokeAsync("WigetCategories") 
+                         <!-- widget newsletter -->
+                         <div class="widget rounded">
+                            <div class="widget-header text-center">
+                               <h3 class="widget-title">Thư mời thân yêu</h3>
+                                <img src="~/images/iconwave-02-01.png" class="wave" alt="wave">
+                            </div>
+                            <div class="widget-content">
+                               <span class="newsletter-headline text-center mb-3">Hãy tham gia cộng đồng Monomind hơn 1.000 người đăng ký nào!</span>
+                               <form>
+                                  @*<div class="mb-2">
+                                     <input class="form-control w-100 text-center" placeholder="Email…" type="email">
+                                  </div>*@
+                                 <button class="btn btn-default btn-full" type="submit"><a asp-action="Register" asp-controller="Home">Đăng ký</a></button>
+                               </form>
+                               <span class="newsletter-privacy text-center mt-3">Mong được đón chờ những bình luận từ các bạn!</span>
+                            </div>
+                         </div>
+       
+                         <!-- widget advertisement -->
+                         @*<div class="widget no-container rounded text-md-center">
+                            <span class="ads-title">- Quảng cáo được tài trợ -</span>
+                            <a href="#" class="widget-ads">
+                            <img src="~/images/ads/ad-360.png" alt="Advertisement">	
+                            </a>
+                         </div>*@
+                         <!-- widget tags -->
+                          @await Component.InvokeAsync("WigetTag") 
+                      </div>
+                   </div>

@@ -1,0 +1,169 @@
+﻿<ul class="sidebar__menu">
+                <li class="sidebar__menu-item">
+                  <a class="sidebar__link active" asp-area="Admin" asp-controller="Home" asp-action="Index" aria-expanded="true">
+                    <span class="sidebar__link-icon">
+                      <svg class="icon-icon-dashboard">
+                        <use xlink:href="#icon-dashboard"></use>
+                      </svg>
+                    </span>
+                    <span class="sidebar__link-text">Trang chủ</span>
+                  </a>
+                </li>
+                <li class="sidebar__menu-item">
+                  <a class="sidebar__link" asp-area="Admin" asp-controller="Categories" asp-action="Index" data-toggle="collapse" data-target="#E-Commerce" aria-expanded="false">
+                    <span class="sidebar__link-icon">
+                      <svg class="icon-icon-cart">
+                        <use xlink:href="#icon-cart"></use>
+                      </svg>
+                    </span>
+                    <span class="sidebar__link-text">Danh mục</span>
+                    <span class="sidebar__link-arrow">
+                      <svg class="icon-icon-keyboard-down">
+                        <use xlink:href="#icon-keyboard-down"></use>
+                      </svg>
+                    </span>
+                  </a>
+                  <div class="collapse" id="E-Commerce">
+                    <ul class="sidebar__collapse-menu">
+                      <li class="sidebar__menu-item">
+                        <a class="sidebar__link"  asp-area="Admin" asp-controller="Categories" asp-action="Index">
+                          <span class="sidebar__link-signal"></span>
+                          <span class="sidebar__link-text">Tất cả danh mục</span>
+                        </a>
+                      </li>
+                      <li class="sidebar__menu-item">
+                        <a class="sidebar__link" asp-area="Admin" asp-controller="Categories" asp-action="Create" >
+                          <span class="sidebar__link-signal"></span>
+                          <span class="sidebar__link-text">Tạo danh mục</span>
+                        </a>
+                      </li>
+                      
+                    </ul>
+                  </div>
+              </li>
+
+                 <li class="sidebar__menu-item">
+                  <a class="sidebar__link" asp-area="Admin" asp-controller="Posts" asp-action="Index" data-toggle="collapse" data-target="#E-Commerce1" aria-expanded="false">
+                    <span class="sidebar__link-icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-card-text" viewBox="0 0 16 16">
+                      <path d="M14.5 3a.5.5 0 0 1 .5.5v9a.5.5 0 0 1-.5.5h-13a.5.5 0 0 1-.5-.5v-9a.5.5 0 0 1 .5-.5h13zm-13-1A1.5 1.5 0 0 0 0 3.5v9A1.5 1.5 0 0 0 1.5 14h13a1.5 1.5 0 0 0 1.5-1.5v-9A1.5 1.5 0 0 0 14.5 2h-13z"/>
+                      <path d="M3 5.5a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9a.5.5 0 0 1-.5-.5zM3 8a.5.5 0 0 1 .5-.5h9a.5.5 0 0 1 0 1h-9A.5.5 0 0 1 3 8zm0 2.5a.5.5 0 0 1 .5-.5h6a.5.5 0 0 1 0 1h-6a.5.5 0 0 1-.5-.5z"/>
+                    </svg>
+                    </span>
+                    <span class="sidebar__link-text">Bài đăng</span>
+                    <span class="sidebar__link-arrow">
+                      <svg class="icon-icon-keyboard-down">
+                        <use xlink:href="#icon-keyboard-down"></use>
+                      </svg>
+                    </span>
+                  </a>
+                  <div class="collapse" id="E-Commerce1">
+                    <ul class="sidebar__collapse-menu">
+                      <li class="sidebar__menu-item">
+                        <a class="sidebar__link"  asp-area="Admin" asp-controller="Posts" asp-action="Index">
+                          <span class="sidebar__link-signal"></span>
+                          <span class="sidebar__link-text">Danh sách bài đăng</span>
+                        </a>
+                      </li>
+                      <li class="sidebar__menu-item">
+                        <a class="sidebar__link" asp-area="Admin" asp-controller="Posts" asp-action="Create" >
+                          <span class="sidebar__link-signal"></span>
+                          <span class="sidebar__link-text">Đăng bài</span>
+                        </a>
+                      </li>
+                      
+                    </ul>
+                  </div>
+                </li>
+                <li class="sidebar__menu-item">
+                  <a class="sidebar__link" asp-area="Admin" asp-controller="Comments" asp-action="Index" data-toggle="collapse" data-target="#E-Commerce2" aria-expanded="false">
+                    <span class="sidebar__link-icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-chat-fill" viewBox="0 0 16 16">
+                      <path d="M8 15c4.418 0 8-3.134 8-7s-3.582-7-8-7-8 3.134-8 7c0 1.76.743 3.37 1.97 4.6-.097 1.016-.417 2.13-.771 2.966-.079.186.074.394.273.362 2.256-.37 3.597-.938 4.18-1.234A9.06 9.06 0 0 0 8 15z"/>
+                    </svg>
+                    </span>
+                    <span class="sidebar__link-text">Bình luận</span>
+                    <span class="sidebar__link-arrow">
+                      <svg class="icon-icon-keyboard-down">
+                        <use xlink:href="#icon-keyboard-down"></use>
+                      </svg>
+                    </span>
+                  </a>
+                  <div class="collapse" id="E-Commerce2">
+                    <ul class="sidebar__collapse-menu">
+                      <li class="sidebar__menu-item">
+                        <a class="sidebar__link"  asp-area="Admin" asp-controller="Comments" asp-action="Index">
+                          <span class="sidebar__link-signal"></span>
+                          <span class="sidebar__link-text">Danh sách bình luận</span>
+                        </a>
+                      </li>
+                    </ul>
+                  </div>
+                </li>
+                <li class="sidebar__menu-item">
+                  <a class="sidebar__link" asp-area="Admin" asp-controller="Tags" asp-action="Index" data-toggle="collapse" data-target="#E-Commerce3" aria-expanded="false">
+                    <span class="sidebar__link-icon">
+                      <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-bookmark-dash-fill" viewBox="0 0 16 16">
+                      <path fill-rule="evenodd" d="M2 15.5V2a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2v13.5a.5.5 0 0 1-.74.439L8 13.069l-5.26 2.87A.5.5 0 0 1 2 15.5zM6 6a.5.5 0 0 0 0 1h4a.5.5 0 0 0 0-1H6z"/>
+                    </svg>
+                    </span>
+                    <span class="sidebar__link-text">Thẻ</span>
+                    <span class="sidebar__link-arrow">
+                      <svg class="icon-icon-keyboard-down">
+                        <use xlink:href="#icon-keyboard-down"></use>
+                      </svg>
+                    </span>
+                  </a>
+                  <div class="collapse" id="E-Commerce3">
+                    <ul class="sidebar__collapse-menu">
+                      <li class="sidebar__menu-item">
+                        <a class="sidebar__link"  asp-area="Admin" asp-controller="Tags" asp-action="Index">
+                          <span class="sidebar__link-signal"></span>
+                          <span class="sidebar__link-text">Danh sách thẻ</span>
+                        </a>
+                      </li>
+                      <li class="sidebar__menu-item">
+                        <a class="sidebar__link" asp-area="Admin" asp-controller="Tags" asp-action="Create" >
+                          <span class="sidebar__link-signal"></span>
+                          <span class="sidebar__link-text">Thêm thẻ</span>
+                        </a>
+                      </li>
+                      
+                    </ul>
+                  </div>
+                </li>
+                <li class="sidebar__menu-item">
+                  <a class="sidebar__link" asp-area="Admin" asp-controller="Users" asp-action="Index" data-toggle="collapse" data-target="#E-Commerce4" aria-expanded="false">
+                    <span class="sidebar__link-icon">
+                        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-person-fill" viewBox="0 0 16 16">
+                          <path d="M3 14s-1 0-1-1 1-4 6-4 6 3 6 4-1 1-1 1H3zm5-6a3 3 0 1 0 0-6 3 3 0 0 0 0 6z"/>
+                        </svg>
+                    
+                    </span>
+                    <span class="sidebar__link-text">Tài khoản</span>
+                    <span class="sidebar__link-arrow">
+                        <svg class="icon-icon-keyboard-down">
+                        <use xlink:href="#icon-keyboard-down"></use>
+                      </svg>
+                      
+                    </span>
+                  </a>
+                  <div class="collapse" id="E-Commerce4">
+                    <ul class="sidebar__collapse-menu">
+                      <li class="sidebar__menu-item">
+                        <a class="sidebar__link"  asp-area="Admin" asp-controller="Users" asp-action="Index">
+                          <span class="sidebar__link-signal"></span>
+                          <span class="sidebar__link-text">Danh sách tài khoản</span>
+                        </a>
+                      </li>
+                      <li class="sidebar__menu-item">
+                        <a class="sidebar__link" asp-area="Admin" asp-controller="Users" asp-action="Create" >
+                          <span class="sidebar__link-signal"></span>
+                          <span class="sidebar__link-text">Tạo tài khoản</span>
+                        </a>
+                      </li>
+                      
+                    </ul>
+                  </div>
+                </li>
+              </ul>

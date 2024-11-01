@@ -1,0 +1,15 @@
+﻿@model List<IndividualBlog.Models.Tag>
+<div class="widget rounded">
+							<div class="widget-header text-center">
+								<h3 class="widget-title">Thẻ</h3>
+								<img src="~/images/iconwave-02-01.png" class="wave" alt="wave">
+							</div>
+							<div class="widget-content">
+								@foreach (var item in Model)
+							   {
+								 @*   <a asp-action="Index" asp-controller="Tags" asp-route-slug="@item.Slug" asp-route-title="@item.Slug" class="tag">#@item.Name</a>
+ *@
+									<a asp-controller="Tags" asp-action="Index" asp-route-slug="@item.Slug" asp-route-id="@item.Id">@item.Slug</a>
+							   }
+							</div>		
+						</div>

@@ -1,0 +1,35 @@
+﻿@model IndividualBlog.Models.Post
+<!-- cover header -->
+    <section class="single-cover data-bg-image" data-bg-image="/upload/post/@Model.Image">
+
+        <div class="container-xl">
+
+            <div class="cover-content post">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="./">Trang chủ</a></li>
+                        <li class="breadcrumb-item"><a asp-controller="Home" asp-action="Details" >Details</a></li>
+                        <li class="breadcrumb-item active" aria-current="page">@Model.Slug</li>
+                    </ol>
+                </nav>
+
+                <!-- post header -->
+                <div class="post-header">
+                    <h1 class="title mt-0 mb-3">@Model.Title</h1>
+                    <ul class="meta list-inline mb-0">
+                        <li class="list-inline-item"><a href="#"><img src="~/images/other/author-sm.png" class="author" alt="author"/>@Model.User.FullName</a></li>
+                        <li class="list-inline-item">
+                            @foreach (var item in Model.PostInCategories)
+                           {
+                                <a class="btn btn-success btn-sm" asp-controller="Categories" asp-action="Index" asp-route-slug="@item.Category.Slug" asp-route-id="@item.CategoryId" >@item.Category.Title</a> <i class="fas fa-star"></i>
+                           }
+                           
+                            </li>
+                        <li class="list-inline-item">@Model.Updated_At</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+
+    </section>

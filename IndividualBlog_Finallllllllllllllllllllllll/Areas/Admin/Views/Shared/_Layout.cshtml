@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html class="no-js" lang="en" data-theme="light">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="MobileOptimized" content="320" />
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Monomond- Trang quản trị</title>
+    <meta name="description" content="FHOTA" />
+    <meta name="msapplication-tap-highlight" content="no" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="application-name" content="FHOTA" />
+    <meta name="apple-mobile-web-app-title" content="Monomind - Trang quản trị" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+    <link rel="stylesheet" href="~/admin/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/admin/css/apexcharts.css" />
+    <link rel="stylesheet" href="~/admin/css/tippy/tippy.css" />
+    <link rel="stylesheet" href="~/admin/css/flatpickr.min.css" />
+    <link rel="stylesheet" href="~/admin/css/select2.min.css" />
+    <link rel="stylesheet" href="~/admin/css/quill/quill.snow.css" />
+    <link rel="stylesheet" href="~/admin/css/quill/quill.core.css" />
+    <link rel="stylesheet" href="~/admin/css/filepond.min.css" />
+    <link rel="stylesheet" href="~/admin/css/filepond-plugin-image-preview.min.css" />
+    <link rel="stylesheet" href="~/admin/css/swiper-bundle.min.css" />
+    <link rel="stylesheet" href="~/admin/css/style.css" />
+    <link rel="apple-touch-icon" sizes="57x57" href="~/admin/img/content/favicons/apple-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="60x60" href="~/admin/img/content/favicons/apple-icon-60x60.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="~/admin/img/content/favicons/apple-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="~/admin/img/content/favicons/apple-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="~/admin/img/content/favicons/apple-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="~/admin/img/content/favicons/apple-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="~/admin/img/content/favicons/apple-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="~/admin/img/content/favicons/apple-icon-152x152.png" />
+    <link rel="apple-touch-icon" sizes="180x180" href="~/admin/img/content/favicons/apple-icon-180x180.png" />
+   @* <link rel="icon" type="image/png" sizes="192x192" href="~/admin/img/content/favicons/android-icon-192x192.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="~/admin/img/content/favicons/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="~/admin/img/content/favicons/favicon-96x96.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="~/admin/img/content/favicons/favicon-16x16.png" />*@
+    <link rel="shortcut icon" type="image/x-icon" href="~/images/logoMonomind-09.png">
+    <script src="https://cdn.ckeditor.com/ckeditor5/30.0.0/classic/ckeditor.js"></script>
+    <!-- <link rel="manifest" href="~/admin/img/content/favicons/manifest.json" />-->
+    <meta name="msapplication-TileColor" content="#ffffff" />
+    <meta name="msapplication-TileImage" content="/ms-icon-144x144.png" />
+    <meta name="theme-color" content="#ffffff" />
+  </head>
+  <body class="page-home">
+     <partial name ="_PartialViewSVG" />
+    <div class="sidebar-backdrop"></div>
+    <div class="page-wrapper">
+      <header class="header">
+       <partial name ="_PartialViewHeader" />
+      </header>
+      <aside class="sidebar">
+        <div class="sidebar__backdrop"></div>
+        <div class="sidebar__container">
+          <div class="sidebar__top">
+            <div class="container container--sm">
+             @*  <a class="sidebar__logo" asp-area="Admin" asp-controller="Users" asp-action="Index" >
+                <img class="sidebar__logo-icon" src="~/admin/img/content/logotype.svg" alt="#" width="44" />
+                <div class="sidebar__logo-text">FHOTA</div>
+              </a> *@
+                        <a class="sidebar__logo" href="https://localhost:44390/">
+                            <img class="sidebar__logo-icon" src="~/admin/img/content/logotype.svg" alt="#" width="44" />
+                            <div class="sidebar__logo-text">FHOTA</div>
+                        </a>
+            </div>
+          </div>
+          <div class="sidebar__content" data-simplebar="data-simplebar">
+            <nav class="sidebar__nav">
+              <partial name ="_PartialViewSlideBar" />
+            </nav>
+          </div>
+        </div>
+      </aside>
+      <main class="page-content">
+        <div class="container"> 
+            @RenderBody() 
+        </div>
+      </main>
+    </div>
+    <script src="~/admin/js/gsap/gsap.min.js"></script>
+    <script src="~/admin/js/gsap/ScrollToPlugin.min.js"></script>
+    <script src="~/admin/js/gsap/ScrollTrigger.min.js"></script>
+    <script src="~/admin/js/vendor/popper.min.js"></script>
+    <script src="~/admin/js/vendor/jquery.min.js"></script>
+    <script src="~/admin/js/vendor/bootstrap.bundle.min.js"></script>
+    <script src="~/admin/js/vendor/imagesloaded.pkgd.min.js"></script>
+    <script src="~/admin/js/vendor/simplebar.min.js"></script>
+    <script src="~/admin/js/vendor/tippy-bundle.umd.min.js"></script>
+    <script src="~/admin/js/vendor/grid/masonry.pkgd.min.js"></script>
+    <script src="~/admin/js/vendor/grid/isotope.pkgd.min.js"></script>
+    <script src="~/admin/js/vendor/charts/circle-progress.min.js"></script>
+    <script src="~/admin/js/vendor/charts/echarts.common.min.js"></script>
+    <script src="~/admin/js/vendor/charts/apexcharts/apexcharts.min.js"></script>
+    <script src="~/admin/js/vendor/cleave/cleave.min.js"></script>
+    <script src="~/admin/js/vendor/cleave/addons/cleave-phone.us.js"></script>
+    <script src="~/admin/js/vendor/jqvmap/jquery.vmap.min.js"></script>
+    <script src="~/admin/js/vendor/jqvmap/jquery.vmap.world.js"></script>
+    <script src="~/admin/js/vendor/jqvmap/jquery.vmap.sampledata.js"></script>
+    <script src="~/admin/js/vendor/jquery.star-rating-svg.min.js"></script>
+    <script src="~/admin/js/vendor/calendar/flatpickr/flatpickr.min.js"></script>
+    <script src="~/admin/js/vendor/calendar/flatpickr/en.js"></script>
+    <script src="~/admin/js/vendor/select2.min.js"></script>
+    <script src="~/admin/js/vendor/editors/quill.min.js"></script>
+    <script src="~/admin/js/vendor/filepond/filepond-plugin-image-preview.min.js"></script>
+    <script src="~/admin/js/vendor/filepond/filepond.min.js"></script>
+    <script src="~/admin/js/vendor/swiper-bundle.min.js"></script>
+    <script src="~/admin/js/vendor/scrollmagic/ScrollMagic.min.js"></script>
+    <script src="~/admin/js/vendor/scrollmagic/debug.addIndicators.min.js"></script>
+    <script src="~/admin/js/components.js"></script>
+    <script src="~/admin/js/common.js"></script>
+    
+    @await RenderSectionAsync("Scripts", required: false)
+  </body>
+</html>

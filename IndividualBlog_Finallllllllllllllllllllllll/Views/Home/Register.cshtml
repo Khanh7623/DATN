@@ -1,0 +1,90 @@
+﻿@model IndividualBlog.Models.ViewModel.ViewModelRegisterUser
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Đăng ký</title>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet" />
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+        <link rel="stylesheet" href="~/login/css/style.css" />
+    </head>
+    <body>
+        <section class="ftco-section">
+            <div class="container">
+                @if(TempData["Register"] !=null){
+                    <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                    <strong>Thông báo</strong> @TempData["Register"]
+                      <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                      </button>
+                    </div>
+                }
+                <div class="row justify-content-center">
+                    <div class="col-md-12 col-lg-10">
+                        <div class="wrap d-md-flex">
+                            <div class="img" style="background-image: url(../login/images/logoMonomind-09.png);"></div>
+                            <div class="login-wrap p-4 p-md-5">
+                                <div class="d-flex">
+                                    <div class="w-100">
+                                        <h3 class="mb-4">Đăng ký</h3>
+                                    </div>
+                                    <div class="w-100">
+                                        <p class="social-media d-flex justify-content-end">
+                                            <a href="#" class="social-icon d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a>
+                                            <a href="#" class="social-icon d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a>
+                                        </p>
+                                    </div>
+                                </div>
+                                <form asp-action="Register" class="signin-form">
+                                    <div class="form-group mb-3">
+                                        
+                                        <input type="text" class="form-control" asp-for="FirtName" required />
+                                        <label class="label" asp-for="FirtName">Tên của bạn</label>
+                                         <span asp-validation-for="FirtName" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group mb-3">
+                                        
+                                        <input type="text" asp-for="LastName" class="form-control" required />
+                                        <label class="label" asp-for="LastName">Họ của bạn</label>
+                                         <span asp-validation-for="LastName" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group mb-3">
+                                       
+                                        <input type="email" asp-for="Email" class="form-control" required />
+                                        <label class="label" asp-for="Email">Email</label>
+                                         <span asp-validation-for="Email" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group mb-3">
+                                        
+                                        <input type="password" asp-for="Password"  class="form-control" required />
+                                        <label class="label" asp-for="Password">Mật khẩu</label>
+                                         <span asp-validation-for="Password" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group mb-3">
+                                        
+                                        <input type="password" asp-for="PasswordConfirm" class="form-control"  required />
+                                        <label class="label" asp-for="PasswordConfirm">Xác nhận mật khẩu</label>
+                                         <span asp-validation-for="PasswordConfirm" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-group">
+                                        <button type="submit" class="form-control btn btn-primary submit px-3">Đăng ký</button>
+                                    </div>
+                                </form>
+                                <p class="text-center">Đã có tài khoản rồi? <a data-toggle="tab" asp-action="Login" >Đăng nhập</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <script src="~/js/jquery.min.js"></script>
+        <script src="~/js/popper.min.js"></script>
+        <script src="~/js/bootstrap.min.js"></script>
+        <script src="~/login/js/main.js"></script>
+    </body>
+</html>
+

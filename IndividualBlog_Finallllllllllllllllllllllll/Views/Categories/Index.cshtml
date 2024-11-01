@@ -1,0 +1,56 @@
+﻿@model List<IndividualBlog.Models.Post>
+@section SectionHero_Home {
+	<partial name="PartialView/_PartialViewSectionHeaderCategory" />
+}
+<div class="row gy-4">
+     @foreach (var item in Model)
+   {
+<div class="col-sm-6">
+   
+       <!-- post -->
+   <div class="post post-grid rounded bordered">
+      <div class="thumb top-rounded">
+          @foreach (var item1 in item.PostInCategories)
+         {
+              <a asp-controller="Categories" asp-action="Details" asp-route-slug="@item1.Category.Slug" asp-route-id="@item1.CategoryId" class="category-badge position-absolute">@item1.Category.Title</a>
+         }
+        
+         <span class="post-format">
+         <i class="icon-picture"></i>
+         </span>
+         <a asp-controller="Home" asp-action="Details" asp-route-slug="@item.Slug" asp-route-id="@item.Id" >
+            <div class="inner">
+               <img src="~/upload/post/@item.Image" alt="post-title">
+            </div>
+         </a>
+      </div>
+      <div class="details">
+         <ul class="meta list-inline mb-0">
+            <li class="list-inline-item"><a href="#"><img src="~/images/other/author-sm.png" class="author" alt="author">@item.User.FullName</a></li>
+            <li class="list-inline-item">@item.Updated_At</li>
+         </ul>
+         <h5 class="post-title mb-3 mt-3"><a asp-controller="Home" asp-action="Details" asp-route-slug="@item.Slug" asp-route-id="@item.Id" >@item.Title</a></h5>
+         <p class="excerpt mb-0">@item.Summary</p>
+      </div>
+      <div class="post-bottom clearfix d-flex align-items-center">
+         <div class="social-share me-auto">
+            <button class="toggle-button icon-share"></button>
+            <ul class="icons list-unstyled list-inline mb-0">
+               <li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+               <li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+               <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
+               <li class="list-inline-item"><a href="#"><i class="fab fa-pinterest"></i></a></li>
+               <li class="list-inline-item"><a href="#"><i class="fab fa-telegram-plane"></i></a></li>
+               <li class="list-inline-item"><a href="#"><i class="far fa-envelope"></i></a></li>
+            </ul>
+         </div>
+         <div class="more-button float-end">
+            <a asp-controller="Home" asp-action="Details" asp-route-slug="@item.Slug" asp-route-id="@item.Id"><span class="icon-options"></span></a>
+         </div>
+      </div>
+   </div>
+
+   
+</div>
+   }
+</div>

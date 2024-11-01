@@ -1,0 +1,87 @@
+﻿@model IPagedList<IndividualBlog.Models.Post>
+@using X.PagedList;
+@using X.PagedList.Mvc.Core;
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Danh sách bài đăng</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Tạo bài đăng mới</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Tiêu đề
+            </th>
+            <th>
+                Ảnh đại diện
+            </th>
+            <th>
+                Trạng thái
+            </th>
+            <th>
+                Ngày tạo
+            </th>
+            <th>
+                Ngày cập nhật
+            </th>
+            <th>
+                Người đăng
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+               <img style="width:200px" asp-append-version src="~/upload/post/@item.Image"/>
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Created_At)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Updated_At)
+            </td>
+            <td>
+                    @*@if (@item.User.Id == null)
+                    {
+                        <strong class="text-danger" >Admin</strong>
+                    }*@
+                    @Html.DisplayFor(modelItem => item.User.FirtName)
+            </td>
+            <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-dark">Cập nhật</a> |
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-info">Xem</a> |
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-danger">Xóa</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+@Html.PagedListPager(Model, page => Url.Action("Index", new{page}),
+    new X.PagedList.Web.Common.PagedListRenderOptions
+    {
+        DisplayItemSliceAndTotal = false,
+        ContainerDivClasses = new[] {"navigation"},
+        LiElementClasses = new[] {"page-item"},
+        PageClasses = new[] {"page-link"}
+    }
+)
+@section Scripts{
+    <script>
+        $(document).ready(function () {
+            $('ul.pagination > li.disable > a').addClass("page-link");
+        });
+    </script>
+}

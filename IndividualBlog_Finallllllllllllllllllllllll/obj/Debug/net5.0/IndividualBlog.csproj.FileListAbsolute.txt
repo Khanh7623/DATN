@@ -1,0 +1,1080 @@
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\appsettings.Development.json
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\appsettings.json
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\IndividualBlog.StaticWebAssets.xml
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\IndividualBlog.exe
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\IndividualBlog.deps.json
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\IndividualBlog.runtimeconfig.json
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\IndividualBlog.runtimeconfig.dev.json
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\IndividualBlog.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\IndividualBlog.pdb
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\IndividualBlog.Views.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\IndividualBlog.Views.pdb
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Humanizer.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\download\IndividualBlog\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.AssemblyReference.cache
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.AssemblyInfoInputs.cache
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.AssemblyInfo.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.CoreCompileInputs.cache
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.MvcApplicationPartsAssemblyInfo.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.MvcApplicationPartsAssemblyInfo.cache
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorAssemblyInfo.cache
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorAssemblyInfo.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.Manifest.cache
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.xml
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\scopedcss\bundle\IndividualBlog.styles.css
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.TagHelpers.input.cache
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.TagHelpers.output.cache
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorCoreGenerate.cache
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Details.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Comments\Delete.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Comments\Index.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Create.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Delete.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Details.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Edit.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Index.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Create.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Delete.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Details.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Edit.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Index.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewHeader.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewSlideBar.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewSVG.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Create.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Delete.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Details.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Edit.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Index.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Delete.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Details.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryNavBarItem\Default.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetCategories\Default.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetPopular\Default.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetTag\Default.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialCoverHeader.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewMenuLeft.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewSectionHeaderCategory.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewSlideHome.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewWiget.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorTargetAssemblyInfo.cache
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorTargetAssemblyInfo.cs
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.Views.pdb
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.CopyComplete
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.dll
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\ref\IndividualBlog.dll
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.pdb
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\IndividualBlog.genruntimeconfig.cache
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.Pack.cache
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.IndividualBlog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.build.IndividualBlog.props
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.IndividualBlog.props
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.IndividualBlog.props
+D:\download\IndividualBlog\IndividualBlog\obj\Debug\net5.0\refint\IndividualBlog.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\ref\IndividualBlog.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.pdb
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\appsettings.Development.json
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\appsettings.json
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\IndividualBlog.StaticWebAssets.xml
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\IndividualBlog.exe
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\IndividualBlog.deps.json
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\IndividualBlog.runtimeconfig.json
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\IndividualBlog.runtimeconfig.dev.json
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\IndividualBlog.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\IndividualBlog.pdb
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\IndividualBlog.Views.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\IndividualBlog.Views.pdb
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Humanizer.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.AssemblyReference.cache
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.AssemblyInfoInputs.cache
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.AssemblyInfo.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.CoreCompileInputs.cache
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.MvcApplicationPartsAssemblyInfo.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.MvcApplicationPartsAssemblyInfo.cache
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorAssemblyInfo.cache
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorAssemblyInfo.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.Manifest.cache
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.xml
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\scopedcss\bundle\IndividualBlog.styles.css
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.TagHelpers.input.cache
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.TagHelpers.output.cache
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorCoreGenerate.cache
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Details.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Comments\Delete.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Comments\Index.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Create.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Delete.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Details.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Edit.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Index.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Create.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Delete.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Details.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Edit.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Index.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewHeader.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewSlideBar.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewSVG.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Create.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Delete.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Details.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Edit.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Index.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Delete.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Details.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryNavBarItem\Default.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetCategories\Default.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetPopular\Default.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetTag\Default.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialCoverHeader.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewMenuLeft.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewSectionHeaderCategory.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewSlideHome.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewWiget.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorTargetAssemblyInfo.cache
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorTargetAssemblyInfo.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.Views.pdb
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.CopyComplete
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\IndividualBlog.genruntimeconfig.cache
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Create.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Delete.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Details.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Edit.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Index.cshtml.g.cs
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.Pack.cache
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.IndividualBlog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.build.IndividualBlog.props
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.IndividualBlog.props
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.IndividualBlog.props
+D:\Duy_ttdt\IndividualBlog_VietHoa100_phan_tram\IndividualBlog\obj\Debug\net5.0\refint\IndividualBlog.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\appsettings.Development.json
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\appsettings.json
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\IndividualBlog.StaticWebAssets.xml
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\IndividualBlog.exe
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\IndividualBlog.deps.json
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\IndividualBlog.runtimeconfig.json
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\IndividualBlog.runtimeconfig.dev.json
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\IndividualBlog.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\IndividualBlog.pdb
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\IndividualBlog.Views.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\IndividualBlog.Views.pdb
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Humanizer.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.AssemblyReference.cache
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.GeneratedMSBuildEditorConfig.editorconfig
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.AssemblyInfoInputs.cache
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.AssemblyInfo.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.CoreCompileInputs.cache
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.MvcApplicationPartsAssemblyInfo.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.MvcApplicationPartsAssemblyInfo.cache
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorAssemblyInfo.cache
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorAssemblyInfo.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.Manifest.cache
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.xml
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\scopedcss\bundle\IndividualBlog.styles.css
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.TagHelpers.input.cache
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.TagHelpers.output.cache
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorCoreGenerate.cache
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Details.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Comments\Delete.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Comments\Index.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Create.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Delete.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Details.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Edit.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Index.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Create.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Delete.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Details.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Edit.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Index.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewHeader.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewSlideBar.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewSVG.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Create.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Delete.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Details.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Edit.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Index.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Delete.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Details.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryNavBarItem\Default.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetCategories\Default.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetPopular\Default.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetTag\Default.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialCoverHeader.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewMenuLeft.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewSectionHeaderCategory.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewSlideHome.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewWiget.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Create.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Delete.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Details.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Edit.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Index.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorTargetAssemblyInfo.cache
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorTargetAssemblyInfo.cs
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.Views.pdb
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.CopyComplete
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\ref\IndividualBlog.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.pdb
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\IndividualBlog.genruntimeconfig.cache
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.Pack.cache
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.IndividualBlog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.build.IndividualBlog.props
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.IndividualBlog.props
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.IndividualBlog.props
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\refint\IndividualBlog.dll
+D:\download\IndividualBlog_VietHoa100_phan_tram_v1_2\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Info.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\appsettings.json
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.StaticWebAssets.xml
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.exe
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.deps.json
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.runtimeconfig.json
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.runtimeconfig.dev.json
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.pdb
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.Views.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.Views.pdb
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Humanizer.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.AssemblyReference.cache
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.AssemblyInfoInputs.cache
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.AssemblyInfo.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.CoreCompileInputs.cache
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorAssemblyInfo.cache
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorAssemblyInfo.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\scopedcss\bundle\IndividualBlog.styles.css
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.Manifest.cache
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.Pack.cache
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.IndividualBlog.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.build.IndividualBlog.props
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.IndividualBlog.props
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.IndividualBlog.props
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.xml
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.TagHelpers.input.cache
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.TagHelpers.output.cache
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorCoreGenerate.cache
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Details.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Comments\Delete.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Comments\Index.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Create.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Delete.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Details.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Edit.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Index.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Create.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Delete.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Details.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Edit.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Index.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewHeader.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewSlideBar.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewSVG.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Create.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Delete.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Details.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Edit.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Index.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Delete.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Details.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Info.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryNavBarItem\Default.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetCategories\Default.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetPopular\Default.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetTag\Default.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialCoverHeader.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewMenuLeft.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewSectionHeaderCategory.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewSlideHome.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewWiget.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Create.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Delete.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Details.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Edit.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Index.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorTargetAssemblyInfo.cache
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorTargetAssemblyInfo.cs
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.Views.pdb
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.CopyComplete
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\refint\IndividualBlog.dll
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.pdb
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.genruntimeconfig.cache
+C:\Users\khanh\Desktop\New folder\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\ref\IndividualBlog.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\appsettings.Development.json
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\appsettings.json
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.StaticWebAssets.xml
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.exe
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.deps.json
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.runtimeconfig.json
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.runtimeconfig.dev.json
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.pdb
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.Views.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\IndividualBlog.Views.pdb
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Humanizer.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.AssemblyReference.cache
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.AssemblyInfoInputs.cache
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.AssemblyInfo.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.CoreCompileInputs.cache
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.MvcApplicationPartsAssemblyInfo.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.MvcApplicationPartsAssemblyInfo.cache
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorAssemblyInfo.cache
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorAssemblyInfo.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.Manifest.cache
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.xml
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\scopedcss\bundle\IndividualBlog.styles.css
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.TagHelpers.input.cache
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.TagHelpers.output.cache
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorCoreGenerate.cache
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Create.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Delete.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Details.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Edit.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Categories\Index.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Comments\Delete.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Comments\Index.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Home\Index.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Create.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Delete.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Details.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Edit.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\PostInCategories\Index.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Create.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Delete.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Details.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Edit.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Posts\Index.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\Error.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_Layout.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewHeader.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewSlideBar.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Shared\_PartialViewSVG.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Create.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Delete.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Details.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Edit.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Tags\Index.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Create.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Delete.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Details.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Edit.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\Users\Index.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewImports.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Areas\Admin\Views\_ViewStart.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Details.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Info.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Login.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Home\Register.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\CategoryNavBarItem\Default.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetCategories\Default.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetPopular\Default.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Components\WigetTag\Default.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialCoverHeader.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewMenuLeft.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewSectionHeaderCategory.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewSlideHome.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\PartialView\_PartialViewWiget.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Create.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Delete.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Details.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Edit.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\UsersPosts\Index.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorTargetAssemblyInfo.cache
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.RazorTargetAssemblyInfo.cs
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.Views.pdb
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.csproj.CopyComplete
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\ref\IndividualBlog.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.pdb
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\IndividualBlog.genruntimeconfig.cache
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\IndividualBlog.StaticWebAssets.Pack.cache
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.IndividualBlog.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.build.IndividualBlog.props
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.IndividualBlog.props
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.IndividualBlog.props
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\obj\Debug\net5.0\refint\IndividualBlog.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\PagedList.dll
+D:\Fpoly\IndividualBlog_VietHoa100_phan_tram_v1_6\IndividualBlog\bin\Debug\net5.0\PagedList.Mvc.dll

@@ -1,0 +1,18 @@
+﻿ @model List<IndividualBlog.Models.Category>
+<div class="widget rounded">
+                            <div class="widget-header text-center">
+                               <h3 class="widget-title">Khám phá danh mục</h3>
+                                <img src="~/images/iconwave-02-01.png" class="wave" alt="wave">
+                                
+                            </div>
+                            <div class="widget-content">
+                               <ul class="list">
+                                   @foreach (var item in Model)
+                                  {
+                                      <li><a asp-controller="Categories" asp-action="Index" asp-route-slug="@item.Slug" asp-route-id="@item.Id" >@item.Title</a></li>
+                                  }
+                                  
+                                  
+                               </ul>
+                            </div>
+                         </div>

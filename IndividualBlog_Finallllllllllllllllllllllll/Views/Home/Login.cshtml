@@ -1,0 +1,108 @@
+﻿@*xong*@
+@model IndividualBlog.Models.ViewModel.ViewModelLogin
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Login</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
+    <link rel="stylesheet" href="~/login/css/style.css" />
+</head>
+<body>
+    <section class="ftco-section">
+        <div class="container">
+            @if (TempData["Login"] != null)
+            {
+                <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                    <strong>Thông báo</strong> @TempData["Login"]
+                    <button type="button" class="close" data-dismiss="alert" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+            }
+
+            <div class="row justify-content-center">
+                <div class="col-md-12 col-lg-10">
+                    <div class="wrap d-md-flex">
+                        @* <div class="card">
+                        <div class="img front" style="background-image: url(../login/images/logoMonomind-09.png);"></div>
+                        <div class="img back" style="background-image: url(../login/images/logoMonomind-09.png);"></div>
+                        <div class="face front">front</div>
+                        <div class="face back">back</div>
+                        </div> *@
+                        @* <div class="img">
+                        <img src="../login/images/logoweb-06_2-06.png" alt="">
+                        <img src="../login/images/logoweb-06_2-06.png" alt="">
+                        <div class="img" style="background-image: url(../login/images/logoweb-06_2-06.png);"></div>
+                        <img src="../login/images/logoweb-06_2-06.png" alt="">
+                        </div> *@
+
+                        @* <div class="img">
+                        <div class="img" style="background-image: url(../login/images/logoweb-06_2-06.png);"></div>
+                        <div class="img" style="background-image: url(../login/images/logoweb-06_2-06.png);"></div>
+                        <div class="img" style="background-image: url(../login/images/logoweb-06_2-06.png);"></div>
+                        <div class="img" style="background-image: url(../login/images/logoweb-06_2-06.png);"></div>
+                        </div> *@
+
+                        <div class="img" style="background-image: url(../login/images/logoMonomind-09.png);"></div>
+
+                        <div class="login-wrap p-4 p-md-5">
+                            <div class="d-flex">
+                                <div class="w-100">
+                                    <h3 class="mb-4">Đăng nhập</h3>
+                                </div>
+                                <div class="w-100">
+                                    <p class="social-media d-flex justify-content-end">
+                                        <a href="#" class="social-icon d-flex align-items-center justify-content-center"><span class="fa fa-facebook"></span></a>
+                                        <a href="#" class="social-icon d-flex align-items-center justify-content-center"><span class="fa fa-twitter"></span></a>
+                                    </p>
+                                </div>
+                            </div>
+                            <form asp-action="Login" class="signin-form">
+                                <div class="form-group mb-3">
+
+                                    <input type="email" asp-for="Email" class="form-control" required />
+                                    <label class="label" for="name">Email</label>
+                                    <span asp-validation-for="Email" class="text-danger"></span>
+                                </div>
+                                <div class="form-group mb-3">
+
+                                    <input type="password" asp-for="Password" class="form-control" required />
+                                    <label class="label" for="password">Mật khẩu</label>
+                                    <span asp-validation-for="Password" class="text-danger"></span>
+                                </div>
+                                <div class="form-group">
+                                    <button type="submit" class="form-control btn btn-primary submit px-3">Đăng nhập</button>
+                                </div>
+                                <div class="form-group d-md-flex">
+                                    @*<div class="w-50 text-left">
+                                        <label class="checkbox-wrap checkbox-primary mb-0">
+                                            Nhớ tài khoản
+                                            <input asp-for="Rememberme" type="checkbox" />
+                                            <span class="checkmark"></span>
+                                        </label>
+                                    </div>*@
+                                    <div class="w-50 text-md-right">
+                                        <a href="#">Quên mật khẩu</a>
+                                    </div>
+                                </div>
+                            </form>
+                            <p class="text-center">Chưa phải là thành viên? <a data-toggle="tab" href="https://localhost:44390/Home/Register">Đăng ký</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="~/js/jquery.min.js"></script>
+    <script src="~/js/popper.min.js"></script>
+    <script src="~/js/bootstrap.min.js"></script>
+    <script src="~/login/js/main.js"></script>
+</body>
+</html>
+

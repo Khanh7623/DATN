@@ -1,0 +1,66 @@
+﻿<!-- search popup area -->
+<div class="search-popup">
+	<!-- close button -->
+	<button type="button" class="btn-close" aria-label="Close"></button>
+	<!-- content -->
+	<div class="search-content">
+		<div class="text-center">
+			@*<h3 class="mb-4 mt-0">Nhấn ESC để đóng</h3>*@
+		</div>
+		<!-- form -->
+		<form class="d-flex search-form">
+			<input class="form-control me-2" type="search" placeholder="Tìm kiếm và enter ..." aria-label="Search">
+			<button class="btn btn-default btn-lg" type="submit"><i class="icon-magnifier"></i></button>
+		</form>
+	</div>
+</div>
+
+<!-- canvas menu -->
+<div class="canvas-menu d-flex align-items-end flex-column">
+	<!-- close button -->
+	<button type="button" class="btn-close" aria-label="Close"></button>
+
+	<!-- logo -->
+	<div class="logo">
+		<img src="~/images/logoMonomindnew-10.png" alt="Monomind" />
+	</div>
+
+	<!-- menu -->
+	<nav>
+		<lable class="lable-name">@Context.Session.GetString("FullName")  </lable>
+		<ul class="vertical-menu">
+			<li class="active">
+				<a href="/Home/Index">Trang chủ</a>
+			</li>
+			@*<li><a href="#">Liên hệ</a></li>*@
+			@if(Context.Session.GetInt32("UserId")>0)
+			{
+				<li class="logout-link">
+					<a asp-action="Logout" asp-controller="Home" >Đăng xuất</a>  
+				</li>
+				<li><a asp-action="Info" asp-controller="Home">Thông tin tài khoản</a></li>
+			}
+			else{
+				<li><a asp-action="Login" asp-controller="Home" >Đăng nhập</a></li>
+			    <li><a asp-action="Register" asp-controller="Home" >Đăng ký</a></li>
+				
+			}
+			
+		</ul>
+	</nav>
+
+	<!-- social icons -->
+	<ul class="social-icons list-unstyled list-inline mb-0 mt-auto w-100">
+		<li class="list-inline-item"><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+		<li class="list-inline-item"><a href="#"><i class="fab fa-twitter"></i></a></li>
+		<li class="list-inline-item"><a href="#"><i class="fab fa-instagram"></i></a></li>
+		<li class="list-inline-item"><a href="#"><i class="fab fa-pinterest"></i></a></li>
+		<li class="list-inline-item"><a href="#"><i class="fab fa-medium"></i></a></li>
+		<li class="list-inline-item"><a href="#"><i class="fab fa-youtube"></i></a></li>
+	</ul>
+
+	
+
+
+</div>
+

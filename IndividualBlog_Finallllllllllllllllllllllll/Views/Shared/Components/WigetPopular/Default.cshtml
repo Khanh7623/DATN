@@ -1,0 +1,34 @@
+﻿@model List<IndividualBlog.Models.Post>
+<div class="widget rounded">
+                            <div class="widget-header text-center">
+                               <h3 class="widget-title">Bài đăng nổi tiếng</h3>
+                               <img src="~/images/iconwave-02-01.png" class="wave" alt="wave">
+                            </div>
+                            <div class="widget-content">
+                                @{int i = 1;}
+                                 @foreach (var item in Model)
+                               {
+                                   
+                                  <!-- post -->
+                               <div class="post post-list-sm circle">
+                                  <div class="thumb circle">
+                                     <span class="number">@i</span>
+                                     @{i++;}
+                                     <a asp-controller="Home" asp-action="Details" asp-route-id="@item.Id" >
+                                        <div class="inner">
+                                           <img src="~/upload/post/@item.Image" alt="@item.Slug">
+                                        </div>
+                                     </a>
+                                  </div>
+                                  <div class="details clearfix">
+                                     <h6 class="post-title my-0"><a asp-controller="Home" asp-action="Details" asp-route-slug="@item.Slug" asp-route-id="@item.Id">@item.Title</a></h6>
+                                     <ul class="meta list-inline mt-1 mb-0">
+                                        <li class="list-inline-item">@item.Updated_At</li>
+                                     </ul>
+                                  </div>
+                               </div> 
+                               }
+                               
+                              
+                            </div>
+                         </div>

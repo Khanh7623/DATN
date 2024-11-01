@@ -1,0 +1,81 @@
+﻿@using IndividualBlog.Utilties.Enum;
+@model IndividualBlog.Models.User
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Cập nhật tài khoản</h1>
+
+<hr />
+<div class="row">
+    <div class="col-md-8">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Id" />
+            <div class="form-group" hidden>
+                <label asp-for="FirtName"  class="control-label"></label>
+                <input asp-for="FirtName" type="text" class="form-control" />
+                <span asp-validation-for="FirtName" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="LastName"  class="control-label"></label>
+                <input asp-for="LastName" type="text" class="form-control" />
+                <span asp-validation-for="LastName" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="Email" class="control-label"></label>
+                <input asp-for="Email" type="email" class="form-control"  />
+                <span asp-validation-for="Email" class="text-danger"></span>
+            </div>
+            
+            <div class="form-group" hidden>
+                <label asp-for="Avatar" type="hidden" class="control-label"></label>
+                <input asp-for="Avatar" type="hidden" class="form-control" disabled />
+                <span asp-validation-for="Avatar" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="ImageFile" type="hidden" class="control-label"></label>
+                <input asp-for="ImageFile" type="hidden" class="form-control" type="file" />
+                <span asp-validation-for="ImageFile" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="Adress"  class="control-label"></label>
+                <input asp-for="Adress" type="text" class="form-control" />
+                <span asp-validation-for="Adress" class="text-danger"></span>
+            </div>
+            <div class="form-group" hidden>
+                <label asp-for="Intro"  class="control-label"></label>
+                <input asp-for="Intro" type="text" class="form-control" />
+                <span asp-validation-for="Intro" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Status" class="control-label"></label>
+                <select asp-for="Status" class="form-control" asp-items="Html.GetEnumSelectList<EUserStatus>()">
+                    <option>Chọn trạng thái người dùng</option>
+                </select>
+                <span asp-validation-for="Status" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Role" class="control-label"></label>
+                <select asp-for="Role" class="form-control" asp-items="Html.GetEnumSelectList<EUserRole>()">
+                    <option>Chọn vai trò người dùng</option>
+                </select>
+                <span asp-validation-for="Role" class="text-danger"></span>
+            </div>
+           
+            
+            <div class="form-group">
+                <input type="submit" value="Cập nhật" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Trở về</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
